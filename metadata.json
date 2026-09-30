@@ -1,0 +1,8 @@
+{
+  "name": "SILK - Sistem Informasi Laboratorium Konoha",
+  "description": "Centralized digital platform by the Konohan Ministry of Health integrating laboratory health data, daily Labkesmas operations, disease surveillance, and FHIR/LOINC interoperability across Konoha.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
