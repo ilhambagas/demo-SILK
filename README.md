@@ -16,13 +16,3 @@ Fungsi dan Tujuan Utama
 </ul>
 
 ---
-
-## 🚀 Panduan Deploy ke GitHub Pages (ilhambagas.github.io)
-
-### Cara Mengaktifkan GitHub Actions Deployment:
-1. Masuk ke repositori **`ilhambagas/demo-SILK`** (atau `ilhambagas.github.io`) di GitHub.
-2. Buka tab **Settings** > **Pages** (di menu sebelah kiri).
-3. Pada bagian **Build and deployment** > **Source**, pilih opsi **GitHub Actions** (bukan *Deploy from a branch*).
-4. Workflow otomatis yang telah disediakan di `.github/workflows/deploy.yml` akan langsung mem-build React bundle dan merilisnya ke GitHub Pages secara otomatis saat Anda push ke branch `main` atau `master`.
-5. Web app akan langsung aktif di `https://ilhambagas.github.io/demo-SILK/` (atau `https://ilhambagas.github.io/`).
-
